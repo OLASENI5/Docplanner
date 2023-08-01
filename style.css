@@ -1,0 +1,191 @@
+body {
+    background-color: white;
+    color: #555;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 2%;
+}
+
+.main-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 40%;
+}
+
+.navbar {
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.navbar a{
+    text-decoration: none0;
+}
+
+.herologo {
+    margin-left: 47%;
+    width: 20%;
+    /* margin-left: 80px; */
+    margin-top: 30px;
+}
+.gold {
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.bright {
+    height: 30px;
+}
+
+.info {
+    margin: 0 auto;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.next {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 50%;
+    border: 2px solid red;
+    gap: 10rem;
+    
+}
+.text {
+    width: 200px;
+    color: rgb(9, 201, 201);
+    font-size: 1rem;
+    font-weight: 200;
+}
+.first {
+    width: 6rem;
+}
+
+.second {
+    width: 3rem;
+}
+
+.third {
+    width: 3rem;
+}
+
+.four {
+    width: 3rem;
+}
+
+.five {
+    width: 3rem;
+}
+
+.six {
+    width: 3rem;
+}
+
+.seven {
+    width: 3rem;
+}
+
+.eight {
+    width: 3rem;
+}
+
+.nine {
+    width: 3rem;
+}
+
+.ten {
+    width: 3rem
+}
+
+.infinity {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: .5rem;
+    width: 1rem;
+}
+.main {
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+h1 {
+    color: rgba(6, 187, 127, 0.788);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1000px;
+}
+
+.now {
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.focus {
+    padding: 30px;
+    background-color: aqua;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.attention {
+    padding: 30px;
+    background-color: rgb(81, 81, 228);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.limelight {
+    padding: 30px;
+    background-color: black;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: white;
+}
+
+.improve {
+    width: 40%;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+.prove {
+    margin: 0 auto;
+    width: 50%;
+    color: rgb(76, 221, 173);
+    justify-self: baseline;
+}
+.new-face {
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+.country-img {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: .5rem;
+}
+
+.behold {
+    background-color: aquamarine;
+    margin-top: 1rem;
+}
